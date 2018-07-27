@@ -6,6 +6,8 @@ public class Student {
 	
 	public int version1;
 	public int version2;
+	
+	public int version3;
 
 	public String getId() {
 		return id;
