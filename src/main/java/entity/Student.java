@@ -4,6 +4,7 @@ public class Student {
 	private String id;
 	private String name;
 	
+	public int version1;
 	public int version2;
 
 	public String getId() {
