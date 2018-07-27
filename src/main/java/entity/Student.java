@@ -3,6 +3,8 @@ package entity;
 public class Student {
 	private String id;
 	private String name;
+	
+	public int version1;
 
 	public String getId() {
 		return id;
